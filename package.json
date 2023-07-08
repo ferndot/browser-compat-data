@@ -27,7 +27,7 @@
   "homepage": "https://github.com/mdn/browser-compat-data#readme",
   "devDependencies": {
     "ajv": "^5.0.1",
-    "mdn-confluence": "0.0.7",
+    "mdn-confluence": "2.2.3",
     "ora": "^3.0.0",
     "yargs": "^11.1.0"
   },
